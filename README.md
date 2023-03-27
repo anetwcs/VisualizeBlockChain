@@ -3,7 +3,7 @@
 Team members:  
 *Alyssa Cote 
 *Eric Boris
-*An Nguyen
+*An Barnes
 
 Project page: https://cse442-21f.github.io/FP-Blockchain/  
 
